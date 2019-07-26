@@ -1,5 +1,6 @@
 Test of coding
 attempt
+pencil change 
 
   git config --global user.name "Tom Minette"
   git config --global user.email "tminette@nsre.com"
