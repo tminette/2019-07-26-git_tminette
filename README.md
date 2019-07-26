@@ -2,6 +2,8 @@ Test of coding
 attempt
 pencil change 
 
+TOM is in the house
+
   git config --global user.name "Tom Minette"
   git config --global user.email "tminette@nsre.com"
   git config --lis
