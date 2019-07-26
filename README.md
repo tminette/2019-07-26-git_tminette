@@ -22,3 +22,6 @@ TOM is in the house
   history
 change
 second change
+
+
+DNA - Adding changes to README file. 
