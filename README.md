@@ -1,4 +1,5 @@
 Test of coding
+attempt
 
   git config --global user.name "Tom Minette"
   git config --global user.email "tminette@nsre.com"
@@ -16,3 +17,4 @@ Test of coding
   git init
   git add README.md
   history
+change
